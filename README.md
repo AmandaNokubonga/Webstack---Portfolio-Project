@@ -15,7 +15,8 @@ Welcome to my portfolio! I am a dedicated Junior Front End Developer specializin
 
 You can view my live portfolio [here](https://66a51a02dd2619453348dc0e--mywebsite-amanda-magwaza.netlify.app/).
 
-![Portfolio Screenshot](portfolio_screenshot.png)
+![Portfolio Screenshot](![Uploading portpic.png…]()
+)
 
 ## Projects
 
